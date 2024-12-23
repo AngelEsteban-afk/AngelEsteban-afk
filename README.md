@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angel Esteban Pimentel</h1>
 <h3 align="center">I am a professional web developer, I am looking for a job as a programmer, I am passionate about learning and teamwork. I also consider that I learn quickly, I hope you enjoy the experience on my profile.</h3>
 
-![Profile Image](https://github.com/AngelEsteban-afk/AngelEsteban-afk/edit/main/README.md)
+![Profile Image](https://github.com/AngelEsteban-afk/AngelEsteban-afk/blob/main/n8agw6z2smyb1.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelesteban-afk&label=Profile%20views&color=0e75b6&style=flat" alt="angelesteban-afk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelesteban-afk" alt="angelesteban-afk" /></a> </p>
