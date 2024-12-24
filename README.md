@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelesteban-afk" alt="angelesteban-afk" /></a> </p>
 
-- 🔭 I’m currently working on **Tabla periodica interactiva**
+- 🔭 I’m currently working on **Interactive Periodic Table** [interactive-periodic-table](https://angelesteban-afk.github.io/Interactive-Periodic-Table/) 
 
 - 🌱 I’m currently learning **React, Node.js**
 
